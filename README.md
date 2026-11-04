@@ -1,6 +1,6 @@
 # KLASIFIKASI KELULUSAN MAHASISWA MENGGUNAKAN MACHINE LEARNING
 
-## 1. Deskripsi Proyek
+## 1. Deskripsi Project
 
 Proyek ini merupakan implementasi Machine Learning untuk melakukan klasifikasi terhadap status kelulusan mahasiswa berdasarkan beberapa karakteristik dan aktivitas akademik. Klasifikasi dilakukan dengan memanfaatkan data mahasiswa yang berisi informasi demografi, latar belakang wilayah, keterlibatan dalam pembelajaran, serta tingkat kehadiran.
 
